@@ -7,6 +7,7 @@
 
 ## 工具类
 
+- [在线工具：程序员的工具箱](http://tool.lu/)
 - [Teambition：团队协作工具创导者](https://www.teambition.com)
 - [Tower：你的网上办公室 ](https://tower.im/)
 - [蒲公英：免费的应用托管平台|App应用众测分发](https://www.pgyer.com/)
@@ -23,6 +24,8 @@
 - [Maps Marker：提供丰富的地图图标](https://mapicons.mapsmarker.com/)
 - [麦客CRM：一款在线表单制作工具](http://www.mikecrm.com/)
 - [BPMN：在线绘制业务流程图](http://demo.bpmn.io)
+- [JSFiddle：Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor.](https://jsfiddle.net/)
+- [CodePen：Front End Developer Playground & Code Editor in the Browser](https://codepen.io/)
 
 ## 教学类网站
 
@@ -88,4 +91,5 @@
 - [Bootstrap在线文档](http://v3.bootcss.com/)
 - [Material Design Lite](https://getmdl.io/)
 - [Emmet Documentation](https://docs.emmet.io/cheat-sheet/)
+- [DevDocs: A fast, offline API documentation browser with 100+ docs including HTML, CSS, JavaScript, PHP, Ruby, Python, Go, C, C++, jQuery, and more.](http://devdocs.io/)
 
